@@ -43,6 +43,8 @@
 		font-weight: bold;
 		border: none;
 		background-color: #fea500;
+
+        cursor: pointer;
 	}
 
 	td.accountInfo {
